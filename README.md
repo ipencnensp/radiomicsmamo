@@ -31,3 +31,6 @@ Vale destacar que as características podem apresentar comportamentos diferentes
 A estratégia proposta neste trabalho apresentou resultados satisfatórios para a padronização de imagens mamográficas adquiridas em equipamentos de diferentes fabricantes, seguindo as diretrizes do IBSI.
 
 Algumas características radiômicas calculadas com o simulador ACR apresentaram resultados dentro do limiar de valores publicados pelo IBSI. Os métodos utilizados para o cálculo e extração de características radiômicos do simulador e de imagens de humanos apresentaram valores dentro de um limiar de 15% de variação.
+
+## Publicação
+O [pôster](https://github.com/ipencnensp/radiomicsmamo/blob/23daf40009ff5e0fdb042b73b7c8605c76ec9bea/Poster_Estrat%C3%A9gia%20para%20Padroniza%C3%A7%C3%A3o%20de%20Dados%20em%20Imagens%20Mamogr%C3%A1ficas%20para%20An%C3%A1lises%20por%20Radi%C3%B4mica%20UFMG_CIIA_2024.pdf) foi apresentado no Congresso CI-IA Saúde ocorrido em Belo Horizonte, em 2024.

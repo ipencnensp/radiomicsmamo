@@ -36,3 +36,5 @@ Algumas características radiômicas calculadas com o simulador ACR apresentaram
 
 ## Publicação
 O [pôster](https://github.com/ipencnensp/radiomicsmamo/blob/23daf40009ff5e0fdb042b73b7c8605c76ec9bea/Poster_Estrat%C3%A9gia%20para%20Padroniza%C3%A7%C3%A3o%20de%20Dados%20em%20Imagens%20Mamogr%C3%A1ficas%20para%20An%C3%A1lises%20por%20Radi%C3%B4mica%20UFMG_CIIA_2024.pdf) foi apresentado no Congresso CI-IA Saúde ocorrido em Belo Horizonte, em 2024.
+
+A dissertação da *M.Sc* Érica pode ser encontrada no [Repositório Digital do IPEN-CNEN,SP](https://repositorio.ipen.br/handle/123456789/49009)
